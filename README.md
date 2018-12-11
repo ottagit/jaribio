@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is a walkthrough to a real-world app using React and Firebase. React is uaed to display the app
+in the browser and store local state in components while Firebase is used for authentication, 
+authorization and a real-time database.
+
+This project is a work-in-progress. 
+
 ## Available Scripts
 
 In the project directory, you can run:
